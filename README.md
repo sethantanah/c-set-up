@@ -1,2 +1,2 @@
-# c-set-up
-A quick c++ set up
+# Ulibrary demo project
+A quick library management app
